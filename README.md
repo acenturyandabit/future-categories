@@ -21,3 +21,6 @@ Assumed: you have python installed
 1. make sure `output.csv` exists
 2. run `python mds.py`
 3. This will produce a window with a graph.
+
+## Other things in here
+- `categorizer/categorizer-web`: a frontend for manual categorization written in gatsby.js.
